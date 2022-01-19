@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matt Plummer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Capability Team Leader
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Te Herenga Waka 
+  url: "https://wgtn.ac.nz"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include modelling and analysis
 
 interests:
 - Artificial Intelligence
