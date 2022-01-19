@@ -14,15 +14,7 @@ organizations:
   url: "https://wgtn.ac.nz"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr Wanting Jiao’s area of expertise is computational biochemistry and biophysics. She studies protein-ligand interactions, protein function and regulation using computational techniques and relating results from computational calculations to experimental results. She says this combination of techniques offers a powerful approach towards investigating behaviours of protein systems.
-
-“I had a taste of the computational field when I was a third-year chemistry undergraduate and immediately fell in love with it.”
-
-“I’m drawn to the field of molecular modelling because the level of details it can offer. The molecular details we get from simulations can offer insights and explanations to experimental observations, properties can be predicted based on simulation results, and these can be used to guide future experiments.”
-
-Wanting’s current research uses molecular modelling techniques including molecular dynamics simulations, QM/MM calculations, ligand docking, structure-based virtual screening, homology modelling and bioinformatics.
-
-Wanting received her PhD in Chemistry from the University of Canterbury.
+bio: Dr Wanting Jiao’s area of expertise is computational biochemistry and biophysics.
 
 interests:
 - Artificial Intelligence
